@@ -1,0 +1,18 @@
+{
+    "db": {
+        "database": "aibase",
+        "user": "root",
+        "password": "root"
+    },
+    "api_token": "6653481306:AAFSPe-tDc0c0OkUo4dwzAiN6GQskJ3fPlA",
+    "ya_token": "c26ae43c-7fd1-4388-8da1-24beccc4bc7c",
+    "gpt_token": "sk-9jhW2P6LPWKtcPjpxQzc26CxTtPFuQMNfm2RfEHfKQUxQcuA",
+    "ai_token": "lZMLuNmI9AMZrXKBphCRY6zg08VGDEQr",
+    "admins_id": [5889390958],
+    "radius_limit": 2.5,
+    "request_limit": 50,
+    "time_zone": "Europe/Moscow",
+    "skip_updates": true,
+    "updated": false,
+    "notify": false
+}
